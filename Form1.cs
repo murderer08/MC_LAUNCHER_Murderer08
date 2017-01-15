@@ -79,8 +79,13 @@ namespace MCLauncher
         {
             return "";
         }
+
+        private void btn_login_Click(object sender, EventArgs e)
+        {
+
+        }
     }
-    
+
     class MCJson
     {
         public string id;

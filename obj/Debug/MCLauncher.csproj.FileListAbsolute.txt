@@ -8,3 +8,6 @@ d:\my documents\visual studio 2015\Projects\c#\MCLauncher\MCLauncher\obj\Debug\M
 d:\my documents\visual studio 2015\Projects\c#\MCLauncher\MCLauncher\obj\Debug\MCLauncher.exe
 d:\my documents\visual studio 2015\Projects\c#\MCLauncher\MCLauncher\obj\Debug\MCLauncher.pdb
 d:\my documents\visual studio 2015\Projects\c#\MCLauncher\MCLauncher\obj\Debug\MCLauncher.UserCab.resources
+D:\My Documents\Visual Studio 2015\Projects\c#\MCLauncher\MC_LAUNCHER_Murderer08\bin\Debug\MCLauncher.exe.config
+D:\My Documents\Visual Studio 2015\Projects\c#\MCLauncher\MC_LAUNCHER_Murderer08\obj\Debug\MCLauncher.exe
+D:\My Documents\Visual Studio 2015\Projects\c#\MCLauncher\MC_LAUNCHER_Murderer08\obj\Debug\MCLauncher.pdb
